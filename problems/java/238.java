@@ -1,6 +1,7 @@
 /*
 [AC 05/07/2024]
 238. Product of Array Except Self
+Array / String
 https://leetcode.com/problems/product-of-array-except-self/
 */
 

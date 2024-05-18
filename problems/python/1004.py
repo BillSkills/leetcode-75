@@ -1,5 +1,6 @@
 # [AC 05/16/2024]
 # 1004. Max Consecutive Ones III
+# Sliding Window
 # https://leetcode.com/problems/max-consecutive-ones-iii/
 
 class Solution:

@@ -1,5 +1,6 @@
 # [AC 05/09/2024]
 # 443. String Compression
+# Array / String
 # https://leetcode.com/problems/string-compression/
 
 class Solution:

@@ -1,6 +1,7 @@
 /*
 [AC 05/04/2024]
 605. Can Place Flowers
+Array / String
 https://leetcode.com/problems/can-place-flowers/
 */
 

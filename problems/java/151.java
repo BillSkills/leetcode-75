@@ -1,6 +1,7 @@
 /*
 [AC 05/06/2024]
 151. Reverse Words in a String
+Array / String
 https://leetcode.com/problems/reverse-words-in-a-string/
 */
 

@@ -1,6 +1,7 @@
 /*
 [AC 05/02/2024]
 1071. Greatest Common Divisor of Strings
+Array / String
 https://leetcode.com/problems/greatest-common-divisor-of-strings/
 */
 

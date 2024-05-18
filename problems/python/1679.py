@@ -1,5 +1,6 @@
 # [AC 05/13/2024]
 # 1679. Max Number of K-Sum Pairs
+# Two Pointers
 # https://leetcode.com/problems/max-number-of-k-sum-pairs/
 
 class Solution:

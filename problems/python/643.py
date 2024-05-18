@@ -1,5 +1,6 @@
 # [AC 05/14/2024]
 # 643. Maximum Average Subarray I
+# Sliding Window
 # https://leetcode.com/problems/maximum-average-subarray-i/
 
 class Solution:

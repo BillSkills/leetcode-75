@@ -1,5 +1,6 @@
 # [AC 05/17/2024]
 # 1493. Longest Subarray of 1's After Deleting One Element
+# Sliding Window
 # https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
 
 class Solution:

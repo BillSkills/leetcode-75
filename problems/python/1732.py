@@ -1,5 +1,6 @@
 # [AC 05/18/2024]
 # 1732. Find the Highest Altitude
+# Prefix Sum
 # https://leetcode.com/problems/find-the-highest-altitude/
 
 class Solution:

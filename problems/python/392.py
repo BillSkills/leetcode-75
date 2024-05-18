@@ -1,5 +1,6 @@
 # [AC 05/11/2024]
 # 392. Is Subsequence
+# Two Pointers
 # https://leetcode.com/problems/is-subsequence/
 
 class Solution:

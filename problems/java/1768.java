@@ -1,6 +1,7 @@
 /*
 [AC 05/01/2024]
 1768. Merge Strings Alternately
+Array / String
 https://leetcode.com/problems/merge-strings-alternately/
 */
 

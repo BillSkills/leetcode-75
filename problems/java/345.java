@@ -1,6 +1,7 @@
 /*
 [AC 05/05/2024]
 345. Reverse Vowels of a String
+Array / String
 https://leetcode.com/problems/reverse-vowels-of-a-string/
 */
 
